@@ -13,6 +13,14 @@ The things you need before installing the project source code.
 
 A GUI based Pharmacy Management System established by using Python standard GUI library Tkinter which provides a login interface to the user to access patient registrations and pharmacy management to ensure the security. User can add new patient registrations each with a unique reference number and the program can also by used by the doctor for creating the medicinal prescription.
 
+## Screenshots :camera_flash:
+
+<p align="center">
+<img src="/images/Pharmacy-1.jpg" width="350px" />
+<img src="/images/Patient.jpg" width="350px" />
+<img src="/images/Pharmacy-2.jpg" width="350px" />
+</p>
+
 ## Topics Covered
 
 Following which are the topics our project covers:
