@@ -1,4 +1,5 @@
 # Pharmacy Management System
+<sub> 1st Semester Project - Course: ICT</sub>
 
 A python project repo, based on Tkinter GUI library 
 
