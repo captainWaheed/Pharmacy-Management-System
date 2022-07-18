@@ -1,10 +1,10 @@
 # Final Project
+# Username : Admin/admin/ADMIN
+# Password : 111
 
-from tkinter import*
-from tkinter import ttk
-import random
 from datetime import datetime
-import tkinter.messagebox
+from tkinter import*
+import random
 import time
 
 def main(): #..................mainloop for the execution of each event called
