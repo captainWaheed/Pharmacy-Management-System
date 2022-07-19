@@ -6,7 +6,10 @@ from datetime import datetime
 from tkinter import*
 import random
 import time
-
+"""
+incase you find any difficulties regarding import commands add:
+from tkinter import ttk
+"""
 def main(): #..................mainloop for the execution of each event called
     root=Tk()
     app=Window1(root)
