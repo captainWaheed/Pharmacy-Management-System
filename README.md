@@ -1,5 +1,5 @@
 # Pharmacy Management System
-<sub> 1st Semester Project - Course: ICT</sub>
+<sub> 1st Semester Project - Course: ICT (Python lang)</sub>
 
 A python project repo, based on Tkinter GUI library 
 
@@ -17,8 +17,11 @@ A GUI based Pharmacy Management System established by using Python standard GUI 
 ## Screenshots :camera_flash:
 
 <p align="center">
+<ul> Login Page </ul>
 <img src="/images/Pharmacy-1.jpg" width="350px" />
+<ul> Patient Registration </ul>
 <img src="/images/Patient.jpg" width="350px" />
+<ul> Pharmacy panel </ul>
 <img src="/images/Pharmacy-2.jpg" width="350px" />
 </p>
 
